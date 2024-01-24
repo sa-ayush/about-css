@@ -1,7 +1,39 @@
 h1{
     color: blueviolet;
+    background-color: aqua;
 }
 
 h2{
     color: rgb(33, 189, 33);
 }
+
+h3{
+    color:#32a895
+}
+section{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(194, 29, 57);
+}
+div{
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
+html{
+    font-size: 2em;
+}
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap');
+h4{
+    font-family: 'Aref Ruqaa Ink', serif; 
+}
+
+
+
+
+
+
+
+
+
+
